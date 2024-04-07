@@ -1,1 +1,1 @@
-# magic-beat-metronome
+# Magic Beat Metronome
